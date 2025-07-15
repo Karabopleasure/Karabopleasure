@@ -1,0 +1,17 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.0",
+        "tecnickcom/tcpdf": "^6.8",
+        "phpmailer/phpmailer": "^6.9",
+        "league/oauth2-client": "^2.8",
+        "microsoft/microsoft-graph": "^2.28",
+        "vlucas/phpdotenv": "^5.6",
+        "smalot/pdfparser": "^2.12"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true,
+            "tbachert/spi": true
+        }
+    }
+}
